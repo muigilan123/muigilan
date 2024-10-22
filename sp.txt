@@ -1,0 +1,8 @@
+today we have sucessfully installed github.
+we came across the authentication and created the account.
+we are ece b
+electronicsand communication engineering
+haripriyan and jeevan
+use control+shift+ m toggle the tab key moving focus.Alternatively,use esc than tab to move to the next
+interactive element on the page.
+
